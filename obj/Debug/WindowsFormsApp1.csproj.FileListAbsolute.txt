@@ -1,0 +1,15 @@
+C:\Users\Harel\source\repos\WindowsFormsApp1\bin\Debug\Soduko Solve.exe.config
+C:\Users\Harel\source\repos\WindowsFormsApp1\bin\Debug\Soduko Solve.exe.manifest
+C:\Users\Harel\source\repos\WindowsFormsApp1\bin\Debug\Soduko Solve.application
+C:\Users\Harel\source\repos\WindowsFormsApp1\bin\Debug\Soduko Solve.exe
+C:\Users\Harel\source\repos\WindowsFormsApp1\bin\Debug\Soduko Solve.pdb
+C:\Users\Harel\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Harel\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Harel\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Harel\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Harel\source\repos\WindowsFormsApp1\obj\Debug\Soduko Solve.TrustInfo.xml
+C:\Users\Harel\source\repos\WindowsFormsApp1\obj\Debug\Soduko Solve.exe.manifest
+C:\Users\Harel\source\repos\WindowsFormsApp1\obj\Debug\Soduko Solve.application
+C:\Users\Harel\source\repos\WindowsFormsApp1\obj\Debug\Soduko Solve.exe
+C:\Users\Harel\source\repos\WindowsFormsApp1\obj\Debug\Soduko Solve.pdb
+C:\Users\Harel\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
